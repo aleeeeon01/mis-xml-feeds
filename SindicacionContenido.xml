@@ -1,0 +1,24 @@
+<rss version="2.0">
+    <channel>
+        <title>Noticias 1º DAW</title>
+        <link>www.ejemploSindicacionContenidos.com</link>
+        <description>¡Las últimas noticias sobre Desarrollo de Aplicaciones Web!</description>
+        <language>es</language>
+        <pubDate>Martes, 16 Dic 2024 10:00:00 +0000</pubDate>
+
+        <item>
+             <title>La IA y el futuro de la Tecnología</title>
+             <link>https://www.ejemploSindicacionContenidos.com/LaIAyelfuturodelaTecnología/</link>
+             <category>Tecnología</category>
+             <description>Un artículo sobre cómo la inteligencia artificial está cambiando el mundo de la tecnología.</description>
+             <pubDate>Miércoles, 17 Dic 2024 10:15:00 +0000</pubDate>
+             <content:encoded>NuestroPrimerArticulo.html</content:encoded>
+             <media:content url="https://vdmedia.elpais.com/mcv/elpais/multimedia/20241212/1014519_093534_video_1800.mp4" duration="24160" type="video/mp4" medium="video">
+                <media:credit>EUROPA PRESS</media:credit>
+                <media:title>Imagen sobre un superordenador</media:title>
+                <media:credit>Alberto Manzano Gómez (Europa Press)</media:credit>
+                <dc:creator>Iker Jiménez</dc:creator>
+             </media:content>
+        </item>
+    </channel>
+</rss>
